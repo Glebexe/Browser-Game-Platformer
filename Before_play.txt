@@ -1,0 +1,9 @@
+A, Left arrow - go left
+D, Right arrow - go right
+SPACE - jump
+Q - shoot left
+E - shoot right
+
+To win you need to collect all items. 
+If you reach the flagpole before you collect all items, you lose.
+To stop sliding after an enemy hit you, jump.
